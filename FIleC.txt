@@ -1,2 +1,3 @@
 THis is FIle C 
 Lets's make a change
+This is for squash Merge
